@@ -8,7 +8,7 @@
 %% Information input
 % Specify the full path of a ImFolderPath containing image stacks and an excel file
 % with coordinates for each image stack on XY scanning stage.
-ImFolderPath = 'G:\Analysis\180509 蝸牛プログラムチェック';
+ImFolderPath = '';
 ExcelFileName = 'xyz.xlsx';
 PIXEL_WIDTH = 1; % image resolution (pixel width, micron)
 Z_STEP = 1; % image resolution (z step, micron)
